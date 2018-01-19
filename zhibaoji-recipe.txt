@@ -1,0 +1,6 @@
+Ingredient:
+ - 纸
+ - 鸡
+
+Direction:
+ 1. 用纸包着鸡
